@@ -1,4 +1,16 @@
+<p align="center">
+  <a href="./README.md"> English </a> | <a href="./README.zh-TW.md"> 繁體中文
+  </a>
+</p>
+  
+<p align="center">
+  Developed by Taipei Group 3<br></a>
+<br>
+
+</p>
+
 # SuperHandy-frontend
+"Our mission is to empower individuals with superhuman abilities in their daily lives. This philosophy represents our commitment to providing a platform that makes it easy for users to find tasks they need help with, while also inspiring them to feel like superheroes who have the power to help others and increase their own self-worth."
 
 # Nuxt 3 Minimal Starter
 
